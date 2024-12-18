@@ -14,7 +14,9 @@ connectDB().then(()=> {
     app.listen(PORT,()=>{
         console.log("**** Server is running ****")
         console.log('*^_^* connect to DB *^_^*')
+        console.log("keep going *^_^* ")
     })
+
 }
 )
 
